@@ -1,3 +1,14 @@
 The first thing is that the world is big.
 The second one is that you are small.
 But lastly, againt the sun, the world is also small.
+
+
+[this-is-the-test-of-my-life]
+.and this is a bullet
+* this is another kind
+    - and a bullet inside another one
+    - and another one
+    ** and two
+    *** and three
+    **** and four
+    ***** and five
